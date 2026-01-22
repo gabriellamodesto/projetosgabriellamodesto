@@ -3,7 +3,7 @@
 int main(){
 
     int valor_saque;
-    int nota_cem = 0, nota_cinquenta = 0, nota_vinte = 0, nota_dez = 0;
+    int nota_cem = 0, nota_cinquenta = 0, nota_vinte = 0, nota_dez = 0; // A quantidade de notas precisa começar em 0
 
     printf("Digite o valor do saque: ");
     scanf("%d", &valor_saque);
