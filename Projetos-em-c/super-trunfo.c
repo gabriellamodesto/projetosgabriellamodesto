@@ -127,7 +127,7 @@ int main() {
     printf("Carta 1 - Cidade: %s\n", cidade1);
     printf("Carta 2 - Cidade: %s\n", cidade2);
 
-    // Resultados
+    // Resultados do jogo
 
     switch (opcao)
     {
