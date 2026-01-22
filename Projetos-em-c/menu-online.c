@@ -42,7 +42,7 @@ int main(){
         //Loop para escolha de pedido 
     }
 
-        while (continuar_pedido == 1){              //Enquanto a variável "continuar_pedido" for igual a 1, o usuário pode continuar no menu
+        while (continuar_pedido == 1){              // Enquanto a variável "continuar_pedido" for igual a 1, o usuário pode continuar no menu
         printf("Digite o número do item que você deseja: ");
         scanf("%d", &opcao);
 
