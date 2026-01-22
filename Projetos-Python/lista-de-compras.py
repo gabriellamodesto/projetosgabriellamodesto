@@ -1,7 +1,7 @@
 lista_compras = []
 unidades = ["Quilograma", "Grama", "Litro", "Mililitro", "Unidade", "Metro", "Centímetro"]
 
-while True:
+while True: #Loop para o Menu
     print("\n=== GERENCIAMENTO DE COMPRAS ===")
     print("1 - Adicionar produto")
     print("2 - Remover produto")
