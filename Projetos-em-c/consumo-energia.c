@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void lerConsumos(float *adm, float *prod, float *dep){ // Procedimento para leitura de consumo --> se tornou necessário usar o * para o ponteio
-    // Ele guarda um endereço de memória, não um número float
+    // Ele guarda um endereço de memória, não um float
     printf("Digite o consumo do Administrativo: "); // Pergunta
     scanf("%f", adm); // Armazenamento da informação
     printf("Digite o consumo da Produção: ");
