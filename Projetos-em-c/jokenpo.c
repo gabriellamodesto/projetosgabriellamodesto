@@ -15,7 +15,7 @@ int main(){
     printf("Escolha: ");
     scanf("%d", &escolhaJogador);
 
-    escolhaComputador = rand() % 3 + 1;
+    escolhaComputador = rand() % 3 + 1; // Número aleatório
 
     switch (escolhaJogador)
     {
