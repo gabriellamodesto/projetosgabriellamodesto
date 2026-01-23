@@ -25,7 +25,7 @@ while True: #Loop para o Menu
             produto = input("Digite o nome do produto a remover: ").strip()
             if produto in lista_compras:
                 lista_compras.remove(produto)
-                print(f"O '{produto} foi removido da lista")
+                print(f"O {produto} foi removido da lista")
             else:
                 print(f"O {produto} não está na lista")
     
