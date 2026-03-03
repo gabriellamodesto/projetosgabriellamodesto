@@ -1,4 +1,4 @@
-# projetosgabriellamodestoCiência da Computação — 2º Período
+# projetosgabriellamodesto
 
 Olá! 👋 Seja bem-vindo(a) ao meu repositório.
 
